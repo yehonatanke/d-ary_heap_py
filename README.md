@@ -97,7 +97,7 @@ print("Max-Heap:", dary_heap.heap)  # Example: [12, 8, 2, 5, 7]
 ```
 
 ## License
-This program is open-source and released under the [MIT License](https://github.com/yehonatanke/BinaryTree/blob/main/LICENSE).
+This program is open-source and released under the [MIT License](https://github.com/yehonatanke/d-ary_heap_py/blob/main/LICENSE).
 
 ## Author
 
