@@ -1,4 +1,9 @@
-# D-ary Heap
+<div align="center">
+  <img src="https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python">
+  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
+</div>
+
+# d-ary Heap
 
 ## Overview
 The D-ary Heap implements a D-ary max heap data structure in Python. It supports essential operations such as insertion, extraction of the maximum element, building a max heap, increasing a key, deleting a key, and printing the heap by depth. The implementation utilizes a list as the underlying data structure. Detailed comments, time, and space complexity analyses are provided for each method.
