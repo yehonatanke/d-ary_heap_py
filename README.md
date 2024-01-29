@@ -20,7 +20,7 @@ The D-ary Heap implements a D-ary max heap data structure in Python. It supports
 6. [Author](#author)
 
 ### General Information
-This program serves as an implementation for the course "Data Structures and Introduction to Algorithms" at The RRR University. This practical implementation allows users to interact with and explore the functionality of the D-ary Heap, a key data structure in the study of algorithms and data structures.
+d-ary data structure is a variant of a binary heap, where each node has D children
 
 ## Installation
 
